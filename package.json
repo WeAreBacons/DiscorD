@@ -24,7 +24,7 @@
     "randomstring": "^1.1.5",
     "require-glob": "^3.2.0",
     "return-deep-diff": "^0.3.0",
-    "sqlite": "^2.9.1",
+    "sqlite": "^2.9.3",
     "yamdbf": "^2.6.2"
   },
   "devDependencies": {},
